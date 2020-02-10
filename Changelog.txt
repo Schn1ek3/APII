@@ -1,4 +1,10 @@
 #AutoPlugin v1.00 TEST
+
+++ Update Langs & Add Japanese by Kouchan :P
+++ New buttons SELECT & START by Vince :D
+++ Add Addcont ID Dumper by cuevavirus
+
+#AutoPlugin v1.00 TEST
 ++ Update ReScreeny v1.2
 ++ Update Vitacheat Z05 for 3.65+ and Z04 for 3.60
 ++ Add more options in Extras: Download & Install iTLS Enso and Battery-fixer (VPKS)
