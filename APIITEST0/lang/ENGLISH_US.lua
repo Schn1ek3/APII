@@ -284,6 +284,7 @@ ENGLISH_US["INSTALLP_DESC_PSVSHELL"] =					"Yet another overclocking plugin (SEL
 ENGLISH_US["INSTALLP_DESC_SYSCALL6"] =					"A tool that patches Playstation Vita's lv0's secure_kernel's syscall 6 (SELF/RVK checks)"
 ENGLISH_US["INSTALLP_DESC_MONAURAL"] =					"Mono audio and channel balance for Playstation Vita (requires MonauralConfig.vpk)"
 ENGLISH_US["INSTALLP_DESC_MUPREMIUM"] =					"Enable background music play for any game or application."
+ENGLISH_US["INSTALLP_DESC_ACIDDUMPER"] =				"Application that may be helpful locating fake DLC"
 
 ENGLISH_US["INSTALLP_DESC_CUSTOMBOOTSPLASH"] =			"This plugin can display Boot Splash on PS Vita/PSTV at boot. Requires ENSO."
 ENGLISH_US["CUSTOMBOOTSPLASH_QUESTION"] =				"Set this image as Custom Boot Splash ?"

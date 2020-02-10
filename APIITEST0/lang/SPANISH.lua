@@ -284,13 +284,14 @@ SPANISH["INSTALLP_DESC_PSVSHELL"] =						"Yet another overclocking plugin (SELEC
 SPANISH["INSTALLP_DESC_SYSCALL6"] =						"A tool that patches Playstation Vita's lv0's secure_kernel's syscall 6 (SELF/RVK checks)"
 SPANISH["INSTALLP_DESC_MONAURAL"] =						"Mono audio and channel balance for Playstation Vita (requires MonauralConfig.vpk)"
 SPANISH["INSTALLP_DESC_MUPREMIUM"] =					"Enable background music play for any game or application."
+SPANISH["INSTALLP_DESC_ACIDDUMPER"] =					"Plugin que puede ser de utilidad para crear mods para DLCs"
 
 SPANISH["INSTALLP_DESC_CUSTOMBOOTSPLASH"] =				"Este plugin puede mostrar una Imagen Personalizada en el arranque de PS Vita/PS TV. Requiere Enso"
 SPANISH["CUSTOMBOOTSPLASH_QUESTION"] =					"Set this image as Custom Boot Splash ?"
 SPANISH["INSTALLP_DESC_NOFINDSPLASH"] =					"Coloca la imagen elegida en ux0:CustomBootsplash/\n(Renómbrala como splash.png y con tamaño 960x544)"
 SPANISH["INSTALLP_DESC_SPLASHGH"] =						"El tamaño de la imagen debe ser: 960 * 544"
-SPANISH["INSTALLP_DESC_BOOTSPLASH_DONE"] =				"¡boot_splash.bin CREADO!"
-SPANISH["INSTALLP_DESC_BOOTSPLASH_FAIL"] =				"boot_splash.bin FAIL !!!"
+SPANISH["INSTALLP_DESC_BOOTSPLASH_DONE"] =				"¡ boot_splash.bin CREADO !"
+SPANISH["INSTALLP_DESC_BOOTSPLASH_FAIL"] =				"¡ boot_splash.bin FALLO !"
 
 --Main
 SPANISH["INSTALLP_DESC_DENABLER"] =						"Permite descargar archivos a través del navegador"
