@@ -43,6 +43,7 @@ Online_Plugins = {
 { name = "0syscall6 by SKGleba v1.2", path = "0syscall6.skprx", section = "KERNEL", version = "0001", desc = LANGUAGE["INSTALLP_DESC_SYSCALL6"], KEY = "INSTALLP_DESC_SYSCALL6", link = "https://raw.githubusercontent.com/SKGleba/0syscall6/master/README.md", },
 { name = "Monaural by cuevavirus v1.0.0", path = "monaural.skprx", section = "KERNEL", version = "0001", desc = LANGUAGE["INSTALLP_DESC_MONAURAL"], KEY = "INSTALLP_DESC_MONAURAL", link = "https://raw.githubusercontent.com/cuevavirus/monaural/master/README.md", },
 { name = "Music Premium by cuevavirus v1.0.5", path = "music_premium.skprx", section = "KERNEL", version = "0001", desc = LANGUAGE["INSTALLP_DESC_MUPREMIUM"], KEY = "INSTALLP_DESC_MUPREMIUM", link = "https://raw.githubusercontent.com/cuevavirus/MusicPremium/master/README.md", },
+{ name = "Dumping addcont IDs by cuevavirus v1.0", path = "acid_dumper.skprx", section = "KERNEL", version = "0001", desc = LANGUAGE["INSTALLP_DESC_ACIDDUMPER"], KEY = "INSTALLP_DESC_ACIDDUMPER", link = "https://raw.githubusercontent.com/cuevavirus/AddcontIDDumper/master/README.md", },
 
 --Boot_config.txt
 { name = "Custom Boot Splash by Princess of Sleeping", path = "custom_boot_splash.skprx", section = "KERNEL", version = "0001", desc = LANGUAGE["INSTALLP_DESC_CUSTOMBOOTSPLASH"], KEY = "INSTALLP_DESC_CUSTOMBOOTSPLASH", link = "https://raw.githubusercontent.com/Princess-of-Sleeping/PSP2-CustomBootSplash/master/README.md", },
