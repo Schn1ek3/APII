@@ -168,7 +168,7 @@ function plugins_online2()
 						--Lo mejor es poner ruta a project/resources/plugins
 						if (http.getfile(string.format("https://raw.githubusercontent.com/%s/%s/master/%s/resources/plugins/%s", APP_REPO, APP_PROJECT, APP_FOLDER, Online_Plugins[j].path), path_plugins)) then
 
-							cont_global -= 1
+							cont_global:set(tonumber(cont_global:get())-1)
 
 							if Online_Plugins[j].path2 then
 								http.getfile(string.format("https://raw.githubusercontent.com/%s/%s/master/%s/resources/plugins/%s", APP_REPO, APP_PROJECT, APP_FOLDER, Online_Plugins[j].path2), path_plugins)
@@ -217,7 +217,7 @@ function plugins_online2()
 
 			if (http.getfile(string.format("https://raw.githubusercontent.com/%s/%s/master/%s/resources/plugins/%s", APP_REPO, APP_PROJECT, APP_FOLDER, Online_Plugins[i].path), path_plugins)) then
 
-				cont_global -= 1
+				cont_global:set(tonumber(cont_global:get())-1)
 
 				if Online_Plugins[i].path2 then
 					http.getfile(string.format("https://raw.githubusercontent.com/%s/%s/master/%s/resources/plugins/%s", APP_REPO, APP_PROJECT, APP_FOLDER, Online_Plugins[i].path2), path_plugins)
