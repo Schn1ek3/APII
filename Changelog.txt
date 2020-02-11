@@ -1,7 +1,9 @@
-#AutoPlugin v1.00 TEST
-
-++ Update Langs & Add Japanese by Kouchan :P
+#AutoPlugin v1.01 TEST
+++ Fix in functions check plugins online
 ++ New buttons SELECT & START by Vince :D
+
+#AutoPlugin v1.00 TEST
+++ Update Langs & Add Japanese by Kouchan :P
 ++ Add Addcont ID Dumper by cuevavirus
 
 #AutoPlugin v1.00 TEST
