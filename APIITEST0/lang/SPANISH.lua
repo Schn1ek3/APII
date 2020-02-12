@@ -311,7 +311,7 @@ SPANISH["INSTALLP_DESC_DOLCEPOLCE"] =                   "Removes PSTV Blacklist 
 SPANISH["INSTALLP_DESC_LOWMEMMODE"] =                   "Launch system applications with enlarged memory game in the background"
 SPANISH["INSTALLP_DESC_QUICKPOWER"] =                   "Power off, reboot, and suspend, all from the quick menu. For both Playstation Vita and Playstation TV. Hold the Power Off button to reboot."
 SPANISH["INSTALLP_DESC_QUICKVOLUME"] =                  "Change volume from the quick menu on the Playstation Vita, just like on the Playstation TV."
-SPANISH["INSTALLP_DESC_QASCREEN"] =                     "High quality screenshot plugin for PS Vita. Unlocks native QA screenshot SceShell implementation."																																												  
+SPANISH["INSTALLP_DESC_QASCREEN"] =                     "High quality screenshot plugin for PS Vita. Unlocks native QA screenshot SceShell implementation."
 SPANISH["INSTALLP_DESC_NOSHAREDFB"] =                   "Allows to bypass shared framebuffer issues after suspend-resume cycle for homebrew applications that run in system mode. but use standard framebuffer implementation."
 SPANISH["INSTALLP_DESC_TRIMPOSE"] =                     "Plugin for PS Vita that makes impose menu (the one that appears after long PS button press) transparent."
 
