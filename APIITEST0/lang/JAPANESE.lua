@@ -28,10 +28,10 @@ JAPANESE["MENU_PSVITA_CONFIGURE_SD2VITA"] =             "SD2VITAプラグイン�
 JAPANESE["MENU_PSVITA_CHECK_ONLINE_PLUGINS"] =          "プラグインの更新を確認"
 
 JAPANESE["MENU_PSVITA_INSTALL_PLUGINS_DESC"] =          "SCENE-PSVITAによって作成された最も便利なプラグインをインストールします"
-JAPANESE["MENU_PSVITA_UNINSTALL_PLUGINS_DESC"] =        	"プラグインを簡単かつ容易にアンインストールします"
+JAPANESE["MENU_PSVITA_UNINSTALL_PLUGINS_DESC"] =        "プラグインを簡単かつ容易にアンインストールします"
 JAPANESE["MENU_PSVITA_INSTALL_SD2VITA_DESC"] =          "SD2VITAプラグインのインストール (StorageMgr v3.2 by CelesteBlue)"
 JAPANESE["MENU_PSVITA_CONFIG_SD2VITA_DESC"] =           "SD2VITAプラグインの構成 (StorageMgr v3.2 by CelesteBlue)"
-JAPANESE["MENU_PSVITA_CHECK_ONLINE_PLUGINS_DESC"] =     	"新しく更新されたプラグインの有無を確認します"
+JAPANESE["MENU_PSVITA_CHECK_ONLINE_PLUGINS_DESC"] =     "新しく更新されたプラグインの有無を確認します"
 
 --Options PSP
 JAPANESE["MENU_PSP_TITLE"] =                            "PSP（Adrenaline）プラグイン"
@@ -52,7 +52,7 @@ JAPANESE["MENU_EXTRAS_CUSTOM_WARNING"] =                "カスタム警告メ�
 JAPANESE["MENU_EXTRAS_TRANSP_IMPOSE"] =                 "クイックメニュー透明化の設定"
 JAPANESE["MENU_EXTRAS_TRANSLATE"] =                     "Autoplugin IIの翻訳"
 
-JAPANESE["MENU_EXTRAS_CUSTOM_PKG_CONFIG_DESC"] =        	"PKGJのconfig.txtでオプションのカスタマイズを許可します"
+JAPANESE["MENU_EXTRAS_CUSTOM_PKG_CONFIG_DESC"] =        "PKGJのconfig.txtでオプションのカスタマイズを許可します"
 JAPANESE["MENU_EXTRAS_CUSTOMBOOTSPLASH_DESC"] =         "起動時にカスタムイメージを設定できます"
 JAPANESE["MENU_EXTRAS_CUSTOMWARNING_DESC"] =            "ENSOで起動するときに、標準の警告メッセージの代わりにカスタムの警告メッセージを設定できます"
 JAPANESE["MENU_EXTRAS_TRANSPIMPOSE_DESC"] =             "透明化のレベルを設定できます。（255 
@@ -67,7 +67,7 @@ JAPANESE["MENU_SETTINGS_CHANGE_LANGUAGE"] =             "言語を変更する"
 
 JAPANESE["MENU_SETTINGS_LANG_ONLINE_DESC"] =            "Autoplugin IIの利用可能な言語パックをダウンロードする"
 JAPANESE["MENU_SETTINGS_AUTOUPDATE_DESC"] =             "自動更新を有効にする：はい/いいえ"
-JAPANESE["MENU_SETTINGS_CHANGE_LANGUAGE_DESC"] =        	"AutoPlugin IIの言語をデフォルトとして変更および設定できます"
+JAPANESE["MENU_SETTINGS_CHANGE_LANGUAGE_DESC"] =        "AutoPlugin IIの言語をデフォルトとして変更および設定できます"
 
 --Install Plugins
 JAPANESE["LIST_PLUGINS"] =                              "インストールする準備ができているプラグインリスト:"

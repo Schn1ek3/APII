@@ -31,7 +31,7 @@ ENGLISH_US["MENU_PSVITA_INSTALL_PLUGINS_DESC"] =        "Install the most useful
 ENGLISH_US["MENU_PSVITA_UNINSTALL_PLUGINS_DESC"] =      "Uninstall plugins easily and simply"
 ENGLISH_US["MENU_PSVITA_INSTALL_SD2VITA_DESC"] =        "Install Plugin SD2VITA (StorageMgr v3.2 by CelesteBlue)"
 ENGLISH_US["MENU_PSVITA_CONFIG_SD2VITA_DESC"] =         "Configure Plugin SD2VITA (StorageMgr v3.2 by CelesteBlue)"
-ENGLISH_US["MENU_PSVITA_CHECK_ONLINE_PLUGINS_DESC"] =   	"Check if there are new updated plugins"
+ENGLISH_US["MENU_PSVITA_CHECK_ONLINE_PLUGINS_DESC"] =   "Check if there are new updated plugins"
 
 --Options PSP
 ENGLISH_US["MENU_PSP_TITLE"] =                          "PSP (Adrenaline) Plugins"
