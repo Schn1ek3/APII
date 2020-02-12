@@ -55,7 +55,7 @@ ITALIAN["MENU_EXTRAS_TRANSLATE"] =                      "Tradurre Autoplugin II"
 ITALIAN["MENU_EXTRAS_CUSTOM_PKG_CONFIG_DESC"] =         "Consente la personalizzazione del file config.txt per PKGj"
 ITALIAN["MENU_EXTRAS_CUSTOMBOOTSPLASH_DESC"] =          "Consente di impostare un'immagine personalizzata all'avvio"
 ITALIAN["MENU_EXTRAS_CUSTOMWARNING_DESC"] =             "Consente di impostare un messaggio di avviso personalizzato anziché l'avviso di epilessia all'avvio con ENSO"
-ITALIAN["MENU_EXTRAS_TRANSPIMPOSE_DESC"] =              "Consente di impostare valori di Livello di trasparente (255
+ITALIAN["MENU_EXTRAS_TRANSPIMPOSE_DESC"] =              "Consente di impostare valori di Livello di trasparente (255=0% trasparente, 0=100% trasparente) inferiore a 30 non è raccomandato"
 ITALIAN["MENU_EXTRAS_INSTALL_ITLSENSO_DESC"] =          "Consente il download e l'installazione di iTLS-Enso vpk su PSVita (aggiunge il TLS v1.2 ai dispositivi abilitati Enso)"
 ITALIAN["MENU_EXTRAS_INSTALL_DESC_BATTFIX"] =           "Permette di scaricare e installare PSP2-batteryFixer vpk in Vita (risolve la maggior parte dei problemi relativi alla batteria della PSVita)"
 ITALIAN["MENU_EXTRAS_TRANSLATE_DESC"] =                 "Aiuta a migliorare Autoplugin traducendo nella tua lingua!"

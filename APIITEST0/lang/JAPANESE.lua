@@ -55,7 +55,7 @@ JAPANESE["MENU_EXTRAS_TRANSLATE"] =                     "Autoplugin IIの翻訳"
 JAPANESE["MENU_EXTRAS_CUSTOM_PKG_CONFIG_DESC"] =        "PKGJのconfig.txtでオプションのカスタマイズを許可します"
 JAPANESE["MENU_EXTRAS_CUSTOMBOOTSPLASH_DESC"] =         "起動時にカスタムイメージを設定できます"
 JAPANESE["MENU_EXTRAS_CUSTOMWARNING_DESC"] =            "ENSOで起動するときに、標準の警告メッセージの代わりにカスタムの警告メッセージを設定できます"
-JAPANESE["MENU_EXTRAS_TRANSPIMPOSE_DESC"] =             "透明化のレベルを設定できます。（255 
+JAPANESE["MENU_EXTRAS_TRANSPIMPOSE_DESC"] =             "透明化のレベルを設定できます。（255 = 0％透明、0 = 100％透明） 30未満の値は推奨されません"
 JAPANESE["MENU_EXTRAS_INSTALL_ITLSENSO_DESC"] =         "VitaにiTLS-Enso.vpkをダウンロードしてインストールできます（Enso対応デバイスにTLS v1.2を追加します）"
 JAPANESE["MENU_EXTRAS_INSTALL_DESC_BATTFIX"] =          "PSViaにPSP2-batteryFixer.vpkをダウンロードしてインストールできます（PSVitaのバッテリー関連の問題のほとんどを修正します）"
 JAPANESE["MENU_EXTRAS_TRANSLATE_DESC"] =                "あなたが使用する言語に翻訳してAutoplugin IIの改善に協力してください！"
