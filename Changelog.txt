@@ -1,4 +1,4 @@
-#AutoPlugin v1.01 TEST
+#AutoPlugin v2.00 TEST
 ++ Fix in functions check plugins online
 ++ New buttons SELECT & START by Vince :D
 
