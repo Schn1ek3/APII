@@ -111,7 +111,7 @@ function plugins_online2()
 			end
 		end
 		if not __find then
-			--if os.message("BBajar si o no ?\n"..Online_Langs[i].id,1) == 1 then
+			--if os.message("Bajar si o no ?\n"..Online_Langs[i].id,1) == 1 then
 			__file = Online_Langs[i].id
 			if (http.getfile(string.format("https://raw.githubusercontent.com/%s/%s/master/%s/lang/%s.lua", APP_REPO, APP_PROJECT, APP_FOLDER, Online_Langs[i].id), "lang/")) then
 				table.insert(tmps, { line = i })
@@ -164,6 +164,22 @@ function plugins_online2()
 						os.delay(350)
 
 						__file = Online_Plugins[j].name
+
+						local vitacheat_path = nil
+						if Online_Plugins[j].path:lower() == "vitacheat360.skprx" then vitacheat_path = "vitacheat360"
+						elseif Online_Plugins[j].path:lower() == "vitacheat.skprx" then vitacheat_path = "vitacheat365" end
+
+						if vitacheat_path != nil then
+							if (http.getfile(string.format("https://raw.githubusercontent.com/%s/%s/master/%s/resources/plugins/%s/vitacheat.suprx", APP_REPO, APP_PROJECT, APP_FOLDER, vitacheat_path),
+								path_plugins..vitacheat_path.."/")) then
+
+								if back2 then back2:blit(0,0) end
+									message_wait(LANGUAGE["UPDATE_PLUGIN"].."\n\n"..vitacheat_path)
+								os.delay(1500)
+
+							end
+						end
+						
 						--if os.message("Update bajar si o no ?\n"..Online_Plugins[j].name,1) == 1 then
 						--Lo mejor es poner ruta a project/resources/plugins
 						if (http.getfile(string.format("https://raw.githubusercontent.com/%s/%s/master/%s/resources/plugins/%s", APP_REPO, APP_PROJECT, APP_FOLDER, Online_Plugins[j].path), path_plugins)) then
