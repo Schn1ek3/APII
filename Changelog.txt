@@ -1,4 +1,7 @@
-#AutoPlugin v20.00 TEST
+#AutoPlugin v2.01 TEST
+++ Fixed Vitacheat suprx Download
+
+#AutoPlugin v2.00 TEST
 ++ Fix in functions check plugins online
 ++ New buttons SELECT & START by Vince :D
 ++ Spaces in Langs (no tabs)
