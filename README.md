@@ -61,11 +61,14 @@ This fixes missing non-standard characters, not found at english charset. Those 
 # Credits:
  Thank you
 - Team OneLua
+
 	*([BaltazaR4](https://twitter.com/baltazarregala4)).*<br>
 	*([HAM](https://twitter.com/holdandmodify)).*<br>
 	*([Dev Devis](https://twitter.com/DevDavisNunez)).*<br>
 	*([gdljjrod](https://twitter.com/gdljjrod)).*<br>
 	*RG<br>
+
+- HAM for new resources
 - TheFloW
 - yifanlu
 - qwikrazor87
@@ -90,7 +93,6 @@ This fixes missing non-standard characters, not found at english charset. Those 
 - chronoss09
 - Yoti
 - teakhanirons
-- Vince for new resources
 # Testers:
 - *([NanospeedGamer](https://twitter.com/NanospeedGamer)).*<br>
 - *([HAM](https://twitter.com/holdandmodify)).*<br>
